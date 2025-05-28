@@ -1,0 +1,10 @@
+#pragma once
+
+// OpenGL window
+#define WINDOW_WIDTH		800
+#define WINDOW_HEIGHT		600
+#define WINDOW_TITLE		"Desert"
+
+#define REFRESH_INTERVAL	33
+
+enum KEYBOARD { LEFT_KEY, RIGHT_KEY, UP_KEY, DOWN_KEY, SPACE_KEY, KEYS_COUNT };
